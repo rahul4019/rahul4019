@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A MERN stack developer from New Delhi</h3>
 
-- 🌱 I’m currently learning **Redux, Tailwind**
+- 🌱 I’m currently learning **Redux toolkit, Tailwind**
 
 - 💬 Ask me about **MERN, C++**
 
