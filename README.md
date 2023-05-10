@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A MERN stack developer from New Delhi</h3>
 
-- 🌱 I’m currently learning **Redux toolkit, Tailwind**
+- 🌱 I’m currently learning **Next.js Redux toolkit, Tailwind**
 
 - 💬 Ask me about **MERN, C++**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul ." height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19168229/rahul4019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19168229/rahul4019" height="30" width="40" /></a>
+<a href="linkedin.com/in/rahul-170a93227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul ." height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/19168229/rahul4019](https://stackoverflow.com/users/19168229/rahul4019?tab=profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19168229/rahul4019" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/webdev4019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webdev4019" height="30" width="40" /></a>
 </p>
 
