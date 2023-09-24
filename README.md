@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A MERN stack developer from New Delhi</h3>
 
+<img align="right" alt="developer animation"  width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul4019&label=Profile%20views&color=0e75b6&style=flat" alt="rahul4019" /> </p>
+
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
 - 💬 Ask me about **React, JavaScript, Tailwind, Node**
