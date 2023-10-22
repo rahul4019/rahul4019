@@ -22,7 +22,7 @@
 
 <h3 align="left">Tech stack</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,next,react,tailwind,bootstrap,redux,express,nodejs,postgres,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwind,redux,express,nodejs,mongodb,ts,postgres,py,bootstrap,cpp)
 
   
 
