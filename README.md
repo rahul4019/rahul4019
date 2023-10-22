@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-kumar-170a93227" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
 <a href="https://leetcode.com/rahul4019" target="blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=orange&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  /></a>
-<a href="https://www.linkedin.com/in/rahul-kumar-170a93227" target="blank"><img src="https://img.shields.io/static/v1?message=stackOverflow&logo=stackoverflow&label=&color=gray&logoColor=orange&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  /></a>
+<a href="https://stackoverflow.com/users/19168229/rahul4019" target="blank"><img src="https://img.shields.io/static/v1?message=stackOverflow&logo=stackoverflow&label=&color=gray&logoColor=orange&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  /></a>
 </p>
 
 <h3 align="left">Tech stack</h3>
