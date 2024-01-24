@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul4019&label=Profile%20views&color=0e75b6&style=flat" alt="rahul4019" /> </p>
 
-- 🌱 I’m currently learning **Python, Socket.IO, PostgreSQL**
+- 🌱 I’m currently learning **DevOps, Socket.IO and SQL**
 
 - 💬 Ask me about **React, Next.js, JavaScript, Node.js**
 
