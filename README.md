@@ -1,17 +1,17 @@
-<h1 align="center">Hello 👋, I'm Rahul</h1>
-<h3 align="center">A Dedicated Web Development Enthusiast</h3>
+<h1 align="center">Hello 👋, I'm Rahul Kumar</h1>
+<h3 align="center">A Dedicated Full Stack Developer</h3>
 
 <img align="right" alt="developer animation"  width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul4019&label=Profile%20views&color=0e75b6&style=flat" alt="rahul4019" /> </p>
 
-- 🌱 I’m currently learning **DevOps, Socket.IO and SQL**
+- 🌱 I’m currently learning **DevOps and SQL**
 
 - 💬 Ask me about **React, Next.js, JavaScript, Node.js**
 
 - 📫 How to reach me **rahulkashyap4019@gmail.com**
 
-- 📄 Know about my experiences [https://webfolio-rahul4019.vercel.app](https://webfolio-rahul4019.vercel.app)
+- 📄 Know about my experiences [Portfolio](https://portfolio-rahul4019.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
