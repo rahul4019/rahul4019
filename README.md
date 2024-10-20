@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul4019&label=Profile%20views&color=0e75b6&style=flat" alt="rahul4019" /> </p>
 
-🔭 **I’m currently working on:** <br>Building personal projects to enhance my skills, including a real-time chat application using Socket.io.<br><br>🌱 **I’m currently learning:** <br>Socket.io, Redis and Devops.<br><br>💬 **Ask me about:** <br>React, Nextjs, Node.js, AWS<br><br>📃 **Know about my experiences:** <br>https://portfolio-rahul4019.vercel.app
+🔭 **I’m currently working on:** <br>Building personal projects to enhance my skills, including a real-time chat application using Socket.io.<br><br>🌱 **I’m currently learning:** <br>Socket.io, Redis and Devops.<br><br>💬 **Ask me about:** <br>React, Nextjs, Node.js, AWS<br><br>📃 **Know about my experiences:** <br>https://rahul4019.vercel.app
 
 <h2 align="left">🔗Connect with me:</h2>
 <p align="left">
