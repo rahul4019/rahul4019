@@ -1,11 +1,18 @@
-<h1 align="center">👋 Hello there! I'm Rahul Kumar</h1>
-<h3 align="center">A Full Stack Developer Bringing Ideas to Life with Code</h3>
+<h1 align="center">Hi 👋 I'm Rahul</h1>
+<h3 align="center">Full Stack Developer | Backend Systems & Integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul4019&label=Profile%20views&color=0e75b6&style=flat" alt="rahul4019" /> </p>
 
-🔭 **I’m currently working on:** <br>Currently working on building applications to enhance my full-stack development skills, while exploring new technologies and methodologies.<br><br>🌱 **I’m currently learning:** <br>React Native, Cloud Technologies.<br><br>💬 **Ask me about:** <br>React, Next.js, Node.js, AWS<br><br>📃 **Know about my experiences:** <br>https://rahul4019.vercel.app
+🔭 **What I Work On:**  
+Backend APIs, third-party integrations, and full-stack applications.
 
-<h2 align="left">🔗Connect with me:</h2>
+⚙️ **Focus Areas:**  
+Scalable backend architecture, reliable API design, and cloud deployments.
+
+🌐 **Portfolio:**  
+https://rahul4019.vercel.app
+
+<h2 align="left">Connect</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-kumar-170a93227" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
@@ -18,7 +25,7 @@
   </a>
 </p>
 
-<h2 align="left">🛠️  Tools & Technologies</h2>
+<h2 align="left">🛠️   Tech Stack</h2>
 
 <table style="border: none;">
   <tr>
@@ -98,48 +105,4 @@
       <br>Tailwind CSS
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="120">
-      <a href="#">
-                 <img src="./img/bootstrap.svg" width="48" height="48" alt="Neovim" /> 
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="120">
-      <a href="#">
-                 <img src="./img/redux.svg" width="48" height="48" alt="Neovim" /> 
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="120">
-      <a href="#">
-               <img src="./img/neovim.svg" width="48" height="48" alt="Neovim" />
-      </a>
-      <br>Neovim
-    </td>
-    <td align="center" width="120">
-      <a href="#">
-           <img src="./img/vscode.svg" width="48" height="48" alt="VS Code" />
-</svg>
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="120">
-      <a href="#" >
- <img src="./img/postman.svg" width="48" height="48" alt="Neovim" /> 
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="120"> 
-      <a href="#" >
-               <img src="./img/git.svg" width="48" height="48" alt="Neovim" />      
-      </a>
-      <br>Git
-    </td>
-  </tr>
 </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul4019&theme=vue-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="rahul4019" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul4019&theme=vue-dark&hide_border=true&show_icons=true&locale=en" alt="rahul4019" /></p>
